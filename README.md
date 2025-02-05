@@ -27,3 +27,10 @@ Saving Todos: Click the "Save" button to store your tasks in local storage.
 ![image](https://github.com/user-attachments/assets/921f2b6d-bcc7-449d-b2ee-6d140384a188)
 
 
+📞 Contact
+For any inquiries, feedback, or collaboration opportunities, feel free to reach out:
+
+📧 Email: sirimahalaxminakka05@gmail.com
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sirimahalaxmi-nakka/)
+
+
